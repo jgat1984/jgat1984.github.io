@@ -12,7 +12,8 @@ Aspiring IT & Cybersecurity professional, currently working on Network+ and buil
 ---
 
 ## 📄 Work Samples
-- JASON GATDULA Revised Resume (5_28_24)_240529_131418 (1) (3).pdf
+- ## 📄 Work Samples
+- [My Resume](JASON%20GATDULA%20Revised%20Resume%20(5_28_24)_240529_131418%20(1)%20(3).pdf)
 - [Cybersecurity Report (PDF)](cybersecurity_report.pdf)  
 
 ---
