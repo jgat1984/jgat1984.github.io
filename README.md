@@ -12,7 +12,7 @@ Aspiring IT & Cybersecurity professional, currently working on Network+ and buil
 ---
 
 ## 📄 Work Samples
-- [My Resume (PDF)](resume.pdf)  
+- [[My Resume (PDF)](resume.pdf) ](https://yourusername.github.io/resume.pdf) 
 - [Cybersecurity Report (PDF)](cybersecurity_report.pdf)  
 
 ---
