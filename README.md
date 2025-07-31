@@ -6,7 +6,7 @@ Aspiring IT & Cybersecurity professional, currently working on Network+ and buil
 ---
 
 ## 💻 Projects
-- [Insurance Python/Django App](https://jgat1984.pythonanywhere.com)  
+- [Insurance Form Python/Django App](https://jgat1984.pythonanywhere.com)  
 
 ---
 
