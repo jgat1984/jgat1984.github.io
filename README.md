@@ -6,7 +6,7 @@ Aspiring IT & Cybersecurity professional, currently working on Network+ and buil
 ---
 
 ## 💻 Projects
-- [Sheldon Insurance Django App](https://jgat1984.pythonanywhere.com)  
+- [Insurance Python/Django App](https://jgat1984.pythonanywhere.com)  
 
 ---
 
