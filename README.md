@@ -1,7 +1,7 @@
 v# Jason Gatdula – Programming Portfolio
 
 ## 🚀 About Me
-Aspiring IT & Cybersecurity professional, currently working on Network+ and building real-world projects.
+Aspiring Programmer, IT & Cybersecurity professional, currently working on Network+ and building real-world projects.
 
 ---
 
