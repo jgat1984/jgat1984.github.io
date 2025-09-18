@@ -8,6 +8,8 @@ Aspiring Programmer, IT & Cybersecurity professional, currently working on Netwo
 ## 💻 Projects
 - [Insurance Form Python/Django App](https://jgat1984.pythonanywhere.com)  
 - [Stock Market Financial Document Collector (Online-Python_Django/React)] (https://fin-docs-collector.vercel.app/)
+- [Crypto Trading Bot Dashboard (C#/ASP.NET + React)](https://trading-bot-frontend-xi.vercel.app) – Automated grid trading bot with live price tracking, trade logging, and profit monitoring (backend on Render, frontend on Vercel).
+
 
 ---
 
